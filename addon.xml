@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.module.softalks.com" version="0.0.1-snapshot" name="Talking Kodi softly with this module" provider-name="Santiago Ruiz">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="src" />
+</addon>
