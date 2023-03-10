@@ -3,5 +3,5 @@
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 	</requires>
-	<extension point="xbmc.python.module" library="src" />
+	<extension point="xbmc.python.module" library="module" />
 </addon>
